@@ -1,0 +1,15 @@
+C:\git\school_helper\school_helper\school_helper\bin\Debug\school_helper.exe.config
+C:\git\school_helper\school_helper\school_helper\bin\Debug\school_helper.exe
+C:\git\school_helper\school_helper\school_helper\bin\Debug\school_helper.pdb
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper.csprojResolveAssemblyReference.cache
+C:\git\school_helper\school_helper\school_helper\obj\Debug\MainWindow.g.cs
+C:\git\school_helper\school_helper\school_helper\obj\Debug\App.g.cs
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper_MarkupCompile.cache
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper_MarkupCompile.lref
+C:\git\school_helper\school_helper\school_helper\obj\Debug\MainWindow.baml
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper.g.resources
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper.Properties.Resources.resources
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper.csproj.GenerateResource.cache
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper.csproj.CoreCompileInputs.cache
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper.exe
+C:\git\school_helper\school_helper\school_helper\obj\Debug\school_helper.pdb
